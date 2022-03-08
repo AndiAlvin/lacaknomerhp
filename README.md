@@ -1,7 +1,5 @@
 
-# lacak no hp
 
-lacak no hp yang ingin kalian tau lokasi keberadaan kota nya
 
 
 ## 🚀 About Me
