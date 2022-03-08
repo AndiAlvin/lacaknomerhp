@@ -10,10 +10,10 @@ My Name is alvin, u can call me vin, iam from Indonesian
 
 ## Installation
 
-dibutuhkan tkinter dan phonenumbers untuk menjalankan program ini
+install phonenumbers
 
 ```bash
-  pip install tkinter
+  
   pip install phonenumbers
 ```
  run code
